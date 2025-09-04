@@ -1,0 +1,6 @@
+pandas
+seaborn
+matplotlib
+streamlit
+jupyter
+notebook
